@@ -1,3 +1,3 @@
 from classes.WatchDog import WatchDog
 
-WatchDog("test")
+WatchDog("C://Users/PC14/Masaüstü/silme.txt")
